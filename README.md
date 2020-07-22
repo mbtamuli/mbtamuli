@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=mbtamuli&style=flat-square&color=red)
+
 <!--
 **mbtamuli/mbtamuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
