@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Go, Kubernetes, AWS
-- 🌱 I’m currently learning gRPC, Protobuf
+- 🌱 I’m currently learning about and working with Kubernetes Operators & Controllers, gRPC, Protobufs
 - 😄 Pronouns: He/Him
 
 ## GitHub Stats :
