@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 
 ## GitHub Stats :
-[![Kulendu's github activity graph](https://activity-graph.herokuapp.com/graph?username=mbtamuli&theme=xcode)](https://github.com/mbtamuli)
+[![Mriyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=mbtamuli&theme=xcode)](https://github.com/mbtamuli)
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mbtamuli&show_icons=true&theme=tokyonight" />
