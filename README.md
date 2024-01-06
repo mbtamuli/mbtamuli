@@ -16,8 +16,8 @@
 - [mbtamuli/csi-quickstart-gh-action](https://github.com/mbtamuli/csi-quickstart-gh-action)
 - [mbtamuli/github-actions-pocs](https://github.com/mbtamuli/github-actions-pocs) - Various proofs of concept examples using Github Actions 🤖
 - [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) - Educational/learning project for Container Storage Interface
-- [mbtamuli/animal-gpt-12ueb](https://github.com/mbtamuli/animal-gpt-12ueb)
-- [mbtamuli/flask](https://github.com/mbtamuli/flask)
+- [mbtamuli/cni-quickstart](https://github.com/mbtamuli/cni-quickstart)
+- [mbtamuli/crispy-octo-doodle](https://github.com/mbtamuli/crispy-octo-doodle)
 
 #### 🚀 Latest releases I've contributed to
 
