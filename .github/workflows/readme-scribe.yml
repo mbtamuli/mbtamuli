@@ -20,6 +20,8 @@ jobs:
       -
         # muesli/readme-scribe@v0.1
         uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           template: templates/README.md.tpl
           writeTo: README.md
