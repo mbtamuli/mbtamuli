@@ -17,17 +17,19 @@ jobs:
     steps:
       - # actions/checkout@v4
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
+
       -
         # muesli/readme-scribe@v0.1
         uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.actor }}
         with:
           template: templates/README.md.tpl
           writeTo: README.md
       - # https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
         run: |
-          git config user.name github-actions[bot]
+          git config user.name 🤖readme-scribe[bot]
           git config user.email github-actions@github.com
           git add README.md
           git commit --message "🤖 Update generated README"
