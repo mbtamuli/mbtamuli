@@ -8,8 +8,8 @@ on:
     branches: [main]
 
 permissions:
-  statuses:read
-  contents:read
+  statuses: read
+  contents: read
 
 jobs:
   readme-scribe:
