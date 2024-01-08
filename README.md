@@ -5,23 +5,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mbtamuli/github-actions-pocs](https://github.com/mbtamuli/github-actions-pocs) - Various proofs of concept examples using Github Actions 🤖 (1 day ago)
-- [mbtamuli/csi-quickstart-gh-action](https://github.com/mbtamuli/csi-quickstart-gh-action) -  (1 day ago)
-- [mbtamuli/playground](https://github.com/mbtamuli/playground) -  (2 days ago)
-- [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) - Educational/learning project for Container Storage Interface (4 days ago)
+- [mbtamuli/csi-quickstart-gh-action](https://github.com/mbtamuli/csi-quickstart-gh-action) - Duplicate of https://github.com/mbtamuli/csi-quickstart to test GitHub Actions (today)
+- [mbtamuli/github-actions-pocs](https://github.com/mbtamuli/github-actions-pocs) - Various proofs of concept examples using Github Actions 🤖 (2 days ago)
+- [mbtamuli/playground](https://github.com/mbtamuli/playground) -  (3 days ago)
+- [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) - Educational/learning project for Container Storage Interface (5 days ago)
 - [mugdha-adhav/quickstart-sample-csi-driver](https://github.com/mugdha-adhav/quickstart-sample-csi-driver) - Quickstart guide for developing a sample CSI driver (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [mbtamuli/csi-quickstart-gh-action](https://github.com/mbtamuli/csi-quickstart-gh-action)
+- [mbtamuli/csi-quickstart-gh-action](https://github.com/mbtamuli/csi-quickstart-gh-action) - Duplicate of https://github.com/mbtamuli/csi-quickstart to test GitHub Actions
 - [mbtamuli/github-actions-pocs](https://github.com/mbtamuli/github-actions-pocs) - Various proofs of concept examples using Github Actions 🤖
 - [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) - Educational/learning project for Container Storage Interface
-- [mbtamuli/cni-quickstart](https://github.com/mbtamuli/cni-quickstart)
+- [mbtamuli/cni-quickstart](https://github.com/mbtamuli/cni-quickstart) - Educational/learning project for Container Network Interface
 - [mbtamuli/crispy-octo-doodle](https://github.com/mbtamuli/crispy-octo-doodle)
 
 #### 🚀 Latest releases I've contributed to
 
-- [warm-metal/csi-driver-image](https://github.com/warm-metal/csi-driver-image) ([v1.0.0](https://github.com/warm-metal/csi-driver-image/releases/tag/v1.0.0), 4 days ago) - Kubernetes CSI driver for mounting image
+- [warm-metal/csi-driver-image](https://github.com/warm-metal/csi-driver-image) ([v1.0.0](https://github.com/warm-metal/csi-driver-image/releases/tag/v1.0.0), 5 days ago) - Kubernetes CSI driver for mounting image
 
 ### 🏃🏻 My GitHub streak
 [![GitHub Streak](https://github-readme-streak-stats-mbtamuli-projects.vercel.app?user=mbtamuli&theme=github-dark-dimmed&mode=weekly#gh-dark-mode-only)](https://github.com/mbtamuli#gh-dark-mode-only)
