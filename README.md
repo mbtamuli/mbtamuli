@@ -23,7 +23,7 @@
 
 - [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) ([v1.0.0](https://github.com/mbtamuli/csi-quickstart/releases/tag/v1.0.0), 1 week ago) - Educational/learning project for Container Storage Interface
 - [mbtamuli/github-actions-pocs](https://github.com/mbtamuli/github-actions-pocs) ([helm-chart-hello-world-0.7.0](https://github.com/mbtamuli/github-actions-pocs/releases/tag/helm-chart-hello-world-0.7.0), 1 week ago) - Various proofs of concept examples using Github Actions 🤖
-- [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver) ([v1.1.0](https://github.com/warm-metal/container-image-csi-driver/releases/tag/v1.1.0), 1 week ago) - Kubernetes CSI driver for mounting image
+- [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver) ([v1.1.0](https://github.com/warm-metal/container-image-csi-driver/releases/tag/v1.1.0), 2 weeks ago) - Kubernetes CSI driver for mounting image
 
 ### 🏃🏻 My GitHub streak
 [![GitHub Streak](https://github-readme-streak-stats-mbtamuli-projects.vercel.app?user=mbtamuli&theme=github-dark-dimmed&mode=weekly#gh-dark-mode-only)](https://github.com/mbtamuli#gh-dark-mode-only)
