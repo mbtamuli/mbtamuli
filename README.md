@@ -5,8 +5,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver) - Kubernetes CSI driver for mounting image (today)
-- [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) - Educational/learning project for Container Storage Interface (2 days ago)
+- [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver) - Kubernetes CSI driver for mounting image (1 day ago)
+- [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) - Educational/learning project for Container Storage Interface (3 days ago)
 - [mbtamuli/argo-workflows-cicd](https://github.com/mbtamuli/argo-workflows-cicd) - Example of using Argo Workflows for CI and CD (2 weeks ago)
 - [mbtamuli/github-actions-pocs](https://github.com/mbtamuli/github-actions-pocs) - Various proofs of concept examples using Github Actions 🤖 (3 weeks ago)
 - [mbtamuli/csi-quickstart-gh-action](https://github.com/mbtamuli/csi-quickstart-gh-action) - Duplicate of https://github.com/mbtamuli/csi-quickstart to test GitHub Actions (3 weeks ago)
@@ -21,7 +21,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) ([v1.0.0](https://github.com/mbtamuli/csi-quickstart/releases/tag/v1.0.0), 2 weeks ago) - Educational/learning project for Container Storage Interface
+- [mbtamuli/csi-quickstart](https://github.com/mbtamuli/csi-quickstart) ([v1.0.0](https://github.com/mbtamuli/csi-quickstart/releases/tag/v1.0.0), 3 weeks ago) - Educational/learning project for Container Storage Interface
 - [mbtamuli/github-actions-pocs](https://github.com/mbtamuli/github-actions-pocs) ([helm-chart-hello-world-0.7.0](https://github.com/mbtamuli/github-actions-pocs/releases/tag/helm-chart-hello-world-0.7.0), 3 weeks ago) - Various proofs of concept examples using Github Actions 🤖
 - [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver) ([v1.1.0](https://github.com/warm-metal/container-image-csi-driver/releases/tag/v1.1.0), 3 weeks ago) - Kubernetes CSI driver for mounting image
 
